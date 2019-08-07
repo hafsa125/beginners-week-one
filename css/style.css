@@ -1,0 +1,30 @@
+
+html, body {
+  font-family: 'Blinker';
+  background-image: url('https://media3.giphy.com/media/l2QDTsTL2NhwOEAV2/giphy.webp?cid=790b76115d4962fe45342e47674e93c1&rid=giphy.webp')
+}
+
+h1 {
+  color:purple;
+}
+
+p{
+  color:purple;
+}
+
+body{
+  text-align: center;
+  font-size: 20px;
+}
+
+/* div{
+  height:200px;
+  width:50%;
+} */
+li{
+  color:purple; 
+
+}
+h2{
+  color:purple;
+}
